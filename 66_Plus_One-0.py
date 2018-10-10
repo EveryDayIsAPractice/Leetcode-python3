@@ -14,3 +14,4 @@ class Solution(object):
                 return digits
         else:
             return [1]
+
